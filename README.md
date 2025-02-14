@@ -43,12 +43,14 @@ This approach uses statistical methods to analyze and predict data lineage, part
 
 By employing these techniques and methodologies, organizations can gain a comprehensive understanding of their data's journey, ensuring data quality, compliance, and effective decision-making based on reliable information.
 
+
+
 Citations:
-[1] https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2013.00189/full
-[2] https://segment.com/blog/data-lineage/
-[3] https://www.bioconductor.org/packages/devel/bioc/vignettes/FamAgg/inst/doc/FamAgg.html
-[4] https://www.acceldata.io/blog/how-to-use-data-lineage-tools-for-tracking-data-transformations
-[5] https://pmc.ncbi.nlm.nih.gov/articles/PMC3928665/
-[6] https://www.ardoq.com/knowledge-hub/data-lineage
-[7] https://pmc.ncbi.nlm.nih.gov/articles/PMC4757949/
-[8] https://www.softwareag.com/en_corporate/resources/data-integration/article/data-lineage.html
+https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2013.00189/full
+https://segment.com/blog/data-lineage/
+https://www.bioconductor.org/packages/devel/bioc/vignettes/FamAgg/inst/doc/FamAgg.html
+https://www.acceldata.io/blog/how-to-use-data-lineage-tools-for-tracking-data-transformations
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3928665/
+https://www.ardoq.com/knowledge-hub/data-lineage
+https://pmc.ncbi.nlm.nih.gov/articles/PMC4757949/
+https://www.softwareag.com/en_corporate/resources/data-integration/article/data-lineage.html
